@@ -1,1 +1,3 @@
 Building next card payment network more advanced than mastercard and visa.
+
+This will be the second of its kind in Africa after interswitch verve, but most sophisticated
